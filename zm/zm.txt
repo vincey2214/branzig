@@ -1,0 +1,22 @@
++---------[Wetransfer]----------+
++ Email    : test@apple.it
++ Password : gfhgfhfghgf
++-----------[ Info ]-----------+
++ Client IP : http://www.geoiptool.com/?IP=::1
++ Date Log  : 22-9-2021
++ Time Log  : 21:06:36
++---------[Anyi^]----------++---------[Wetransfer]----------+
++ Email    : test@apple.it
++ Password : d44334433
++-----------[ Info ]-----------+
++ Client IP : http://www.geoiptool.com/?IP=::1
++ Date Log  : 22-9-2021
++ Time Log  : 21:21:17
++---------[Anyi^]----------++---------[Wetransfer]----------+
++ Email    : test@apple.it
++ Password : ggdgdgdgfgfg
++-----------[ Info ]-----------+
++ Client IP : http://www.geoiptool.com/?IP=::1
++ Date Log  : 22-9-2021
++ Time Log  : 21:23:58
++---------[Anyi^]----------+
